@@ -1,0 +1,30 @@
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\bin\Debug\homework2_1.exe.config
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\bin\Debug\homework2_1.exe
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\bin\Debug\homework2_1.pdb
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.csprojAssemblyReference.cache
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.Form1.resources
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.Properties.Resources.resources
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.csproj.GenerateResource.cache
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.csproj.CoreCompileInputs.cache
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.exe
+C:\Users\Macbook\Desktop\c# project\homework2_1\homework2_1\obj\Debug\homework2_1.pdb
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.csprojAssemblyReference.cache
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.Form1.resources
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.Properties.Resources.resources
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.csproj.GenerateResource.cache
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.csproj.CoreCompileInputs.cache
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.exe
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\obj\Debug\homework2_1.pdb
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\bin\Debug\homework2_1.exe.config
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\bin\Debug\homework2_1.exe
+C:\Users\kayyr\OneDrive\Masaüstü\Codes\homework2_1\homework2_1\bin\Debug\homework2_1.pdb
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\bin\Debug\homework2_1.exe.config
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\bin\Debug\homework2_1.exe
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\bin\Debug\homework2_1.pdb
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.csprojAssemblyReference.cache
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.Form1.resources
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.Properties.Resources.resources
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.csproj.GenerateResource.cache
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.csproj.CoreCompileInputs.cache
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.exe
+C:\Users\Macbook\Desktop\homework2_1\homework2_1\obj\Debug\homework2_1.pdb
